@@ -1,0 +1,2 @@
+# EsercitazioneEsamePython
+Esercitazione esame python
